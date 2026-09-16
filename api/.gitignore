@@ -3,4 +3,5 @@ tmp/*
 !tmp/.gitkeep
 uploads/*
 .DS_Store
+.env
 yarn.lock
